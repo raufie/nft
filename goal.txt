@@ -1,0 +1,1 @@
+make secure smart contracts for making image based nfts 

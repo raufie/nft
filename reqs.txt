@@ -1,0 +1,19 @@
+-Deploying NFTs
+    *Specifications before deployment
+        -No. of collectibles
+        -upload all art files to ipfs by number
+
+-Drafting NFTs
+    *Random nft mint
+    *Auction time
+    *the nfts that are not minted can be minted in any other draft next time
+
+-Selling NFTs
+    *nft owner's cut
+    *contract owner's cut
+    *transfering ownership
+    
+
+
+-specific
+    -use events for important stuff

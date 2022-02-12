@@ -1,0 +1,18 @@
+>AccessControl
+    -owner
+    -cfo
+    -modifiers
+>Factory
+    -attributes
+    -transfer
+>OwnerShip
+    -make available for sale
+    -set sale price
+    -get nfts
+>Draft
+    -first time mint new tokens
+    -after a limited time no more new minting
+    -when the time expires no more minting, the remaining tokens are not minted
+
+*difference between access control and ownership
+    -accesscontrol for managers, ownership for owners
